@@ -1,0 +1,1 @@
+gsap.registerPlugin(MotionPathPlugin,ScrollTrigger,ScrollSmoother,ScrollToPlugin,SplitText,TextPlugin)
